@@ -71,7 +71,7 @@ body {
       animation: fire 0.3s ease infinite;
     }
   }
-  @for $i from 1 through 6 {
+  @for $i from 1 through 8 {
     li:nth-child(#{$i}) {
       span {
         animation-delay: #{$i * 1}s;
