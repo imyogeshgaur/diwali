@@ -17,7 +17,7 @@ body {
 }
 
 .container .title {
-  font-size: 10rem;
+  font-size: 8rem;
   color: rgba(255, 255, 255, 0.5);
   text-align: center;
   text-shadow: 0px 2px 1px orange, 0px 0px 6px orangered, 0px 5px 10px black;
